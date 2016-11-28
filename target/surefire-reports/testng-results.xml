@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="9" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="104375" started-at="2016-11-09T00:49:30Z" finished-at="2016-11-09T00:51:15Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="104375" started-at="2016-11-09T00:49:30Z" finished-at="2016-11-09T00:51:15Z">
+      <class name="com.facebookProject.fcebookProject.test.Scenario010">
+        <test-method status="PASS" signature="intializeWebDriver()[pri:0, instance:com.facebookProject.fcebookProject.test.Scenario010@20095ab4]" name="intializeWebDriver" is-config="true" duration-ms="2966" started-at="2016-11-08T19:50:34Z" finished-at="2016-11-08T19:50:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intializeWebDriver -->
+        <test-method status="PASS" signature="scrollDownnAndLoadPage()[pri:0, instance:com.facebookProject.fcebookProject.test.Scenario010@20095ab4]" name="scrollDownnAndLoadPage" duration-ms="22669" started-at="2016-11-08T19:50:37Z" finished-at="2016-11-08T19:50:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scrollDownnAndLoadPage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.facebookProject.fcebookProject.test.Scenario010@20095ab4]" name="tearDown" is-config="true" duration-ms="1030" started-at="2016-11-08T19:50:59Z" finished-at="2016-11-08T19:51:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.facebookProject.fcebookProject.test.Scenario010 -->
+      <class name="com.facebookProject.fcebookProject.test.Scenario001">
+        <test-method status="PASS" signature="intializeWebDriver()[pri:0, instance:com.facebookProject.fcebookProject.test.Scenario001@5e8604bf]" name="intializeWebDriver" is-config="true" duration-ms="2960" started-at="2016-11-08T19:50:08Z" finished-at="2016-11-08T19:50:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intializeWebDriver -->
+        <test-method status="PASS" signature="verifyTryAnotherText()[pri:0, instance:com.facebookProject.fcebookProject.test.Scenario001@5e8604bf]" name="verifyTryAnotherText" duration-ms="2453" started-at="2016-11-08T19:50:11Z" finished-at="2016-11-08T19:50:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTryAnotherText -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.facebookProject.fcebookProject.test.Scenario001@5e8604bf]" name="tearDown" is-config="true" duration-ms="1097" started-at="2016-11-08T19:50:14Z" finished-at="2016-11-08T19:50:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.facebookProject.fcebookProject.test.Scenario001 -->
+      <class name="com.facebookProject.fcebookProject.test.Scenario003">
+        <test-method status="PASS" signature="intializeWebDriver()[pri:0, instance:com.facebookProject.fcebookProject.test.Scenario003@4a6c18ad]" name="intializeWebDriver" is-config="true" duration-ms="2902" started-at="2016-11-08T19:49:56Z" finished-at="2016-11-08T19:49:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intializeWebDriver -->
+        <test-method status="PASS" signature="verifyAdSettingsPage()[pri:0, instance:com.facebookProject.fcebookProject.test.Scenario003@4a6c18ad]" name="verifyAdSettingsPage" duration-ms="2620" started-at="2016-11-08T19:49:59Z" finished-at="2016-11-08T19:50:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAdSettingsPage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.facebookProject.fcebookProject.test.Scenario003@4a6c18ad]" name="tearDown" is-config="true" duration-ms="1128" started-at="2016-11-08T19:50:02Z" finished-at="2016-11-08T19:50:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.facebookProject.fcebookProject.test.Scenario003 -->
+      <class name="com.facebookProject.fcebookProject.test.Scenario002">
+        <test-method status="PASS" signature="intializeWebDriver()[pri:0, instance:com.facebookProject.fcebookProject.test.Scenario002@6fd1660]" name="intializeWebDriver" is-config="true" duration-ms="8727" started-at="2016-11-08T19:49:30Z" finished-at="2016-11-08T19:49:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intializeWebDriver -->
+        <test-method status="PASS" signature="categoryListOfEntertainment()[pri:0, instance:com.facebookProject.fcebookProject.test.Scenario002@6fd1660]" name="categoryListOfEntertainment" duration-ms="2631" started-at="2016-11-08T19:49:39Z" finished-at="2016-11-08T19:49:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- categoryListOfEntertainment -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.facebookProject.fcebookProject.test.Scenario002@6fd1660]" name="tearDown" is-config="true" duration-ms="2543" started-at="2016-11-08T19:49:42Z" finished-at="2016-11-08T19:49:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.facebookProject.fcebookProject.test.Scenario002 -->
+      <class name="com.facebookProject.fcebookProject.test.Scenario004">
+        <test-method status="PASS" signature="intializeWebDriver()[pri:0, instance:com.facebookProject.fcebookProject.test.Scenario004@66c83fc8]" name="intializeWebDriver" is-config="true" duration-ms="2915" started-at="2016-11-08T19:51:09Z" finished-at="2016-11-08T19:51:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intializeWebDriver -->
+        <test-method status="PASS" signature="listOfWesternEuropeLanguages()[pri:0, instance:com.facebookProject.fcebookProject.test.Scenario004@66c83fc8]" name="listOfWesternEuropeLanguages" duration-ms="1766" started-at="2016-11-08T19:51:12Z" finished-at="2016-11-08T19:51:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- listOfWesternEuropeLanguages -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.facebookProject.fcebookProject.test.Scenario004@66c83fc8]" name="tearDown" is-config="true" duration-ms="1071" started-at="2016-11-08T19:51:13Z" finished-at="2016-11-08T19:51:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.facebookProject.fcebookProject.test.Scenario004 -->
+      <class name="com.facebookProject.fcebookProject.test.Scenario007">
+        <test-method status="PASS" signature="intializeWebDriver()[pri:0, instance:com.facebookProject.fcebookProject.test.Scenario007@60d1b21f]" name="intializeWebDriver" is-config="true" duration-ms="2890" started-at="2016-11-08T19:51:00Z" finished-at="2016-11-08T19:51:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intializeWebDriver -->
+        <test-method status="PASS" signature="submittingFeedback()[pri:0, instance:com.facebookProject.fcebookProject.test.Scenario007@60d1b21f]" name="submittingFeedback" duration-ms="4539" started-at="2016-11-08T19:51:03Z" finished-at="2016-11-08T19:51:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- submittingFeedback -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.facebookProject.fcebookProject.test.Scenario007@60d1b21f]" name="tearDown" is-config="true" duration-ms="1138" started-at="2016-11-08T19:51:08Z" finished-at="2016-11-08T19:51:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.facebookProject.fcebookProject.test.Scenario007 -->
+      <class name="com.facebookProject.fcebookProject.test.Scenario006">
+        <test-method status="PASS" signature="intializeWebDriver()[pri:0, instance:com.facebookProject.fcebookProject.test.Scenario006@ae7950d]" name="intializeWebDriver" is-config="true" duration-ms="2872" started-at="2016-11-08T19:50:15Z" finished-at="2016-11-08T19:50:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intializeWebDriver -->
+        <test-method status="PASS" signature="playAuthenticateSelfVideo()[pri:0, instance:com.facebookProject.fcebookProject.test.Scenario006@ae7950d]" name="playAuthenticateSelfVideo" duration-ms="14835" started-at="2016-11-08T19:50:18Z" finished-at="2016-11-08T19:50:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- playAuthenticateSelfVideo -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.facebookProject.fcebookProject.test.Scenario006@ae7950d]" name="tearDown" is-config="true" duration-ms="1145" started-at="2016-11-08T19:50:32Z" finished-at="2016-11-08T19:50:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.facebookProject.fcebookProject.test.Scenario006 -->
+      <class name="com.facebookProject.fcebookProject.test.Scenario009">
+        <test-method status="PASS" signature="intializeWebDriver()[pri:0, instance:com.facebookProject.fcebookProject.test.Scenario009@64aad6db]" name="intializeWebDriver" is-config="true" duration-ms="2897" started-at="2016-11-08T19:50:03Z" finished-at="2016-11-08T19:50:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intializeWebDriver -->
+        <test-method status="PASS" signature="verifyInvalidLogin()[pri:0, instance:com.facebookProject.fcebookProject.test.Scenario009@64aad6db]" name="verifyInvalidLogin" duration-ms="1581" started-at="2016-11-08T19:50:06Z" finished-at="2016-11-08T19:50:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyInvalidLogin -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.facebookProject.fcebookProject.test.Scenario009@64aad6db]" name="tearDown" is-config="true" duration-ms="1011" started-at="2016-11-08T19:50:07Z" finished-at="2016-11-08T19:50:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.facebookProject.fcebookProject.test.Scenario009 -->
+      <class name="com.facebookProject.fcebookProject.test.Scenario008">
+        <test-method status="PASS" signature="intializeWebDriver()[pri:0, instance:com.facebookProject.fcebookProject.test.Scenario008@4e2916c3]" name="intializeWebDriver" is-config="true" duration-ms="3177" started-at="2016-11-08T19:49:44Z" finished-at="2016-11-08T19:49:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intializeWebDriver -->
+        <test-method status="PASS" signature="listOfGamesNamedMania()[pri:0, instance:com.facebookProject.fcebookProject.test.Scenario008@4e2916c3]" name="listOfGamesNamedMania" duration-ms="7188" started-at="2016-11-08T19:49:48Z" finished-at="2016-11-08T19:49:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- listOfGamesNamedMania -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.facebookProject.fcebookProject.test.Scenario008@4e2916c3]" name="tearDown" is-config="true" duration-ms="1283" started-at="2016-11-08T19:49:55Z" finished-at="2016-11-08T19:49:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.facebookProject.fcebookProject.test.Scenario008 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

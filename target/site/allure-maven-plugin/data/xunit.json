@@ -1,0 +1,126 @@
+{
+  "time" : {
+    "start" : 1478652579518,
+    "stop" : 1478652673973,
+    "duration" : 94455
+  },
+  "testSuites" : [ {
+    "uid" : "be85d32e4722e0d",
+    "name" : "Suite : Test",
+    "title" : "Suite : Test",
+    "time" : {
+      "start" : 1478652579518,
+      "stop" : 1478652673973,
+      "duration" : 94455
+    },
+    "statistic" : {
+      "total" : 9,
+      "passed" : 9,
+      "pending" : 0,
+      "canceled" : 0,
+      "failed" : 0,
+      "broken" : 0
+    },
+    "description" : null,
+    "testCases" : [ {
+      "uid" : "26d3bedeedd7f8b5",
+      "name" : "categoryListOfEntertainment",
+      "title" : "Category list of entertainment",
+      "time" : {
+        "start" : 1478652579518,
+        "stop" : 1478652582110,
+        "duration" : 2592
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "189d916fc4ab3515",
+      "name" : "listOfGamesNamedMania",
+      "title" : "List of games named mania",
+      "time" : {
+        "start" : 1478652588068,
+        "stop" : 1478652595254,
+        "duration" : 7186
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "97b06069abe7fe6e",
+      "name" : "verifyAdSettingsPage",
+      "title" : "Verify ad settings page",
+      "time" : {
+        "start" : 1478652599448,
+        "stop" : 1478652602068,
+        "duration" : 2620
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "f55dcaf5e5b567a7",
+      "name" : "verifyInvalidLogin",
+      "title" : "Verify invalid login",
+      "time" : {
+        "start" : 1478652606098,
+        "stop" : 1478652607678,
+        "duration" : 1580
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "3246125373afad26",
+      "name" : "verifyTryAnotherText",
+      "title" : "Verify try another text",
+      "time" : {
+        "start" : 1478652611652,
+        "stop" : 1478652614104,
+        "duration" : 2452
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "23cd9bf8915c8a03",
+      "name" : "playAuthenticateSelfVideo",
+      "title" : "Play authenticate self video",
+      "time" : {
+        "start" : 1478652618079,
+        "stop" : 1478652632911,
+        "duration" : 14832
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "785ca652c240fc68",
+      "name" : "scrollDownnAndLoadPage",
+      "title" : "Scroll downn and load page",
+      "time" : {
+        "start" : 1478652637024,
+        "stop" : 1478652659692,
+        "duration" : 22668
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "2763b278c0ac97f7",
+      "name" : "submittingFeedback",
+      "title" : "Submitting feedback",
+      "time" : {
+        "start" : 1478652663615,
+        "stop" : 1478652668153,
+        "duration" : 4538
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "c9f741f2fea5abf4",
+      "name" : "listOfWesternEuropeLanguages",
+      "title" : "List of western europe languages",
+      "time" : {
+        "start" : 1478652672208,
+        "stop" : 1478652673973,
+        "duration" : 1765
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    } ]
+  } ]
+}

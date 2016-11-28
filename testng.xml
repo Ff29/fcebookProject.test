@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="com.facebookProject.fcebookProject.test.Scenario002"/>
+      <class name="com.facebookProject.fcebookProject.test.Scenario003"/>
+      <class name="com.facebookProject.fcebookProject.test.Scenario001"/>
+      <class name="com.facebookProject.fcebookProject.test.Scenario010"/>
+      <class name="com.facebookProject.fcebookProject.test.WebDriverFactory"/>
+      <class name="com.facebookProject.fcebookProject.test.Scenario008"/>
+      <class name="com.facebookProject.fcebookProject.test.Scenario009"/>
+      <class name="com.facebookProject.fcebookProject.test.Scenario006"/>
+      <class name="com.facebookProject.fcebookProject.test.Scenario007"/>
+      <class name="com.facebookProject.fcebookProject.test.Scenario004"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

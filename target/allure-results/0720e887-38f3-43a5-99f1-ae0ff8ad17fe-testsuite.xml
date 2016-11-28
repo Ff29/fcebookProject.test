@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1478652570695" stop="1478652675110" version="1.4.16" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Suite : Test</name>
+    <title>Suite : Test</title>
+    <test-cases>
+        <test-case start="1478652579518" stop="1478652582110" status="passed">
+            <name>categoryListOfEntertainment</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Fahad"/>
+                <label name="thread" value="14228@Fahad.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1478652588068" stop="1478652595254" status="passed">
+            <name>listOfGamesNamedMania</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Fahad"/>
+                <label name="thread" value="14228@Fahad.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1478652599448" stop="1478652602068" status="passed">
+            <name>verifyAdSettingsPage</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Fahad"/>
+                <label name="thread" value="14228@Fahad.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1478652606098" stop="1478652607678" status="passed">
+            <name>verifyInvalidLogin</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Fahad"/>
+                <label name="thread" value="14228@Fahad.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1478652611652" stop="1478652614104" status="passed">
+            <name>verifyTryAnotherText</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Fahad"/>
+                <label name="thread" value="14228@Fahad.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1478652618079" stop="1478652632911" status="passed">
+            <name>playAuthenticateSelfVideo</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Fahad"/>
+                <label name="thread" value="14228@Fahad.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1478652637024" stop="1478652659692" status="passed">
+            <name>scrollDownnAndLoadPage</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Fahad"/>
+                <label name="thread" value="14228@Fahad.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1478652663615" stop="1478652668153" status="passed">
+            <name>submittingFeedback</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Fahad"/>
+                <label name="thread" value="14228@Fahad.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1478652672208" stop="1478652673973" status="passed">
+            <name>listOfWesternEuropeLanguages</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Fahad"/>
+                <label name="thread" value="14228@Fahad.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>
