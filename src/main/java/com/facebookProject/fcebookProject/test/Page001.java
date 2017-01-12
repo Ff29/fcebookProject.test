@@ -6,7 +6,7 @@ import org.openqa.selenium.WebElement;
 
 public class Page001 extends Base {
 
-	By groupLinkField = By.linkText("Groups");
+	By groupLinkField = By.linkText("Group");
 	By categoryLetterAField = By.linkText("A");
 	By actualTextField = By.id("captcha");
 	By createAPageField = By.linkText("Create a Page");
